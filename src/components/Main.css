@@ -1,0 +1,19 @@
+/* Main Section Styles */
+main {
+    background-color: #f8f9fa;
+    padding: 100px 0;
+    margin-top: 80px;
+  }
+  
+  .carousel-item img {
+    max-height: 450px; /* Adjust height of carousel images as needed */
+  }
+  
+  /* Main.css */
+
+.carousel-caption h3 {
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  color: #fff; /* White text color */
+  padding: 10px 20px; /* Padding around the text */
+  border-radius: 5px; /* Rounded corners */
+}
