@@ -1,0 +1,26 @@
+#Sidenav {
+    width: 240px;
+    height: 150vh; /* Full viewport height */
+    position: relative; /* Fixed position */
+    top: 0;
+    left: 0;
+    background: #d6dbdf; /* Optional: Set a background color */
+    overflow-y: auto; /* Optional: Allow scrolling if content overflows */
+    padding-top: 50px;
+  }
+  
+  #Sidenav hr {
+    border-color: #85929e;
+    border-width: 2px;
+  }
+  
+  #Sidenav p {
+    text-align: center;
+    font-size: medium;
+    margin-top: 100px;
+  }
+
+  #Sidenav h3 {
+    text-align: left;
+    padding: 20px;
+  }
